@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RPGE reference implementation (Art01)"
+license: MIT
+authors:
+  - family-names: "Silva Luengo"
+    given-names: "Antonio"
+    orcid: "https://orcid.org/0000-0002-9202-8515"
+  - family-names: "Núñez Trujillo"
+    given-names: "Pedro"
+    orcid: "https://orcid.org/0000-0002-3615-8833"
+  - family-names: "Torrecilla Pinero"
+    given-names: "Jesús"
+    orcid: "https://orcid.org/0000-0001-9406-1100"

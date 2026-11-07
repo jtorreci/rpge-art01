@@ -1,0 +1,26 @@
+{
+  "title": "RPGE reference implementation for \"RPG-Based Behavioral Operators for Evolutionary Algorithms: A Formal Framework for Individualized Search Strategies\" (Art01)",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Silva Luengo, Antonio",
+      "orcid": "0000-0002-9202-8515"
+    },
+    {
+      "name": "Núñez Trujillo, Pedro",
+      "orcid": "0000-0002-3615-8833"
+    },
+    {
+      "name": "Torrecilla Pinero, Jesús",
+      "orcid": "0000-0001-9406-1100"
+    }
+  ],
+  "description": "Reference implementation of the RPG-inspired evolutionary algorithm (RPGE) and the scripts that generate the figures and benchmark table of the paper.",
+  "keywords": [
+    "evolutionary computation",
+    "metaheuristics",
+    "role-playing games",
+    "behavioral modes"
+  ]
+}
